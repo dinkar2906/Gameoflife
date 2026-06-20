@@ -1,0 +1,3 @@
+/home/dinkar/Desktop/Gameoflife/build/CMakeFiles/GameOfLife.dir
+/home/dinkar/Desktop/Gameoflife/build/CMakeFiles/edit_cache.dir
+/home/dinkar/Desktop/Gameoflife/build/CMakeFiles/rebuild_cache.dir
