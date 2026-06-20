@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/dinkar/Desktop/Gameoflife/src/application.cpp" "CMakeFiles/GameOfLife.dir/src/application.cpp.o" "gcc" "CMakeFiles/GameOfLife.dir/src/application.cpp.o.d"
+  "/home/dinkar/Desktop/Gameoflife/src/counter.cpp" "CMakeFiles/GameOfLife.dir/src/counter.cpp.o" "gcc" "CMakeFiles/GameOfLife.dir/src/counter.cpp.o.d"
   "/home/dinkar/Desktop/Gameoflife/src/grid.cpp" "CMakeFiles/GameOfLife.dir/src/grid.cpp.o" "gcc" "CMakeFiles/GameOfLife.dir/src/grid.cpp.o.d"
   "/home/dinkar/Desktop/Gameoflife/src/main.cpp" "CMakeFiles/GameOfLife.dir/src/main.cpp.o" "gcc" "CMakeFiles/GameOfLife.dir/src/main.cpp.o.d"
   "/home/dinkar/Desktop/Gameoflife/src/renderer.cpp" "CMakeFiles/GameOfLife.dir/src/renderer.cpp.o" "gcc" "CMakeFiles/GameOfLife.dir/src/renderer.cpp.o.d"

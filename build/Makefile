@@ -153,6 +153,30 @@ src/application.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GameOfLife.dir/build.make CMakeFiles/GameOfLife.dir/src/application.cpp.s
 .PHONY : src/application.cpp.s
 
+src/counter.o: src/counter.cpp.o
+.PHONY : src/counter.o
+
+# target to build an object file
+src/counter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/GameOfLife.dir/build.make CMakeFiles/GameOfLife.dir/src/counter.cpp.o
+.PHONY : src/counter.cpp.o
+
+src/counter.i: src/counter.cpp.i
+.PHONY : src/counter.i
+
+# target to preprocess a source file
+src/counter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/GameOfLife.dir/build.make CMakeFiles/GameOfLife.dir/src/counter.cpp.i
+.PHONY : src/counter.cpp.i
+
+src/counter.s: src/counter.cpp.s
+.PHONY : src/counter.s
+
+# target to generate assembly for a file
+src/counter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/GameOfLife.dir/build.make CMakeFiles/GameOfLife.dir/src/counter.cpp.s
+.PHONY : src/counter.cpp.s
+
 src/grid.o: src/grid.cpp.o
 .PHONY : src/grid.o
 
@@ -261,6 +285,9 @@ help:
 	@echo "... src/application.o"
 	@echo "... src/application.i"
 	@echo "... src/application.s"
+	@echo "... src/counter.o"
+	@echo "... src/counter.i"
+	@echo "... src/counter.s"
 	@echo "... src/grid.o"
 	@echo "... src/grid.i"
 	@echo "... src/grid.s"
