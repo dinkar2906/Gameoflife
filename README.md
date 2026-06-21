@@ -42,3 +42,9 @@ R → Reset grid
 C → Clear grid
 
 Mouse Click → Toggle cells (alive/dead)
+
+
+Glider simulation done 
+logic gates is next
+then movement in grid 
+
